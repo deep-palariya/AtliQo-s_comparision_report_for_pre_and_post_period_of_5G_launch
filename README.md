@@ -1,4 +1,4 @@
-# AtliQo's_comparision_report_for_pre_and_post_period_of_5G_launch
+# AtliQo's comparision report for pre and post period of 5Glaunch
 To provide a comparison report of KPIs between pre and post-periods of the 5G launch. 
 As part of the codebasics December month resume challenge, I have worked on this performance analysis project.
 click here Link to [challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
@@ -12,7 +12,14 @@ However, the management noticed a decline in their active users and revenue grow
 - 3.Create relevant insights not provided in the dashboard to support the cause.
 # Tools and Technology Used
 - MySQL
+  - view
+  - Window Function
 - Power BI Desktop
+   - Report
+   - Dashboard
+   - Power Query
+   - Data Modelling
+   
 - Excel
 # My Approach to problem
 - 1.Understanding the Business Requirements, Dataset and KPIs.
