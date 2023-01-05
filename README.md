@@ -1,7 +1,7 @@
 # AtliQo's_comparision_report_for_pre_and_post_period_of_5G_launch
-to provide a comparison report of KPIs between pre and post-periods of the 5G launch. 
+To provide a comparison report of KPIs between pre and post-periods of the 5G launch. 
 As part of the codebasics December month resume challenge, I have worked on this performance analysis project.
-lick here Link to [challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
+click here Link to [challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
 # Problem Statement
 AtliQo is one of the leading telecom providers in India and launched its 5G plans in May 2022 along with other telecom providers.
