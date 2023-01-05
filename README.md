@@ -17,12 +17,12 @@ However, the management noticed a decline in their active users and revenue grow
 # My Approach to problem
 - 1.Understanding the Business Requirements, Dataset and KPIs.
 - 2.create a view by joining given datasets tables to have required facts and dimensions tables.
-- 3. Imported Data to PBI desktop.
-- 6. Model Tables by managing relationships between them.
-- 4. Created a Separate Specific table for % change in measure by Before 5G and After 5G.
-- 5. Visualized graphs/ tables keeping KPIs in mind.
-- 7. At Last, Summarized some key Recommendations & Insights.
+- 3.Imported Data to PBI desktop.
+- 6.Model Tables by managing relationships between them.
+- 4.Created a Separate Specific table for % change in measure by Before 5G and After 5G.
+- 5.Visualized graphs/ tables keeping KPIs in mind.
+- 7.At Last, Summarized some key Recommendations & Insights.
 # Learning from this Project
-- 1. A better approach to find KPIs by Using Dax creating Measures and calculated Columns to get the required figures on visuals.
-- 2. Customization of report and power query.
-- 3. Work with relationship model to create new table by using DAX queries.
+- 1.A better approach to find KPIs by Using Dax creating Measures and calculated Columns to get the required figures on visuals.
+- 2.Customization of report and power query.
+- 3.Work with relationship model to create new table by using DAX queries.
